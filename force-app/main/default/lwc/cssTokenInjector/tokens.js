@@ -1,0 +1,22 @@
+export const tokens = {
+    'color-1' : '#5f58ed',
+    'color-2' : '#ed6958',
+    'color-3' : '#7F7679',
+    'color-4' : '#317F43',
+    'color-5' : '#A18594',
+    'color-6' : '#424632',
+    'color-7' : '#969992',
+    'color-8' : '#9DA1AA',
+    'color-9' : '#3F888F',
+    'color-10' : '#293133',
+    'color-11' : '#5f58ed',
+    'color-12' : '#ed6958',
+    'color-13' : '#7F7679',
+    'color-14' : '#317F43',
+    'color-15' : '#A18594',
+    'color-16' : '#424632',
+    'color-17' : '#969992',
+    'color-18' : '#9DA1AA',
+    'color-19' : '#3F888F',
+    'color-20' : '#293133'
+}
